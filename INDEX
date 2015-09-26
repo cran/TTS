@@ -1,0 +1,8 @@
+PC                      Dataset obtained from the polycarbonate test
+                        using Dynamic Mechanical Analysis (DMA).
+
+PLOT.TTS                Time-Temperature Superposition (TTS) plot.
+
+TTS                     The Master Curve at a specific temperature is
+                        estimated using Time-Temperature Superposition
+                        (TTS) procedures.
