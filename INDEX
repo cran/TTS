@@ -1,8 +1,22 @@
 PC                      Dataset obtained from the polycarbonate test
                         using Dynamic Mechanical Analysis (DMA).
 
+Epoxy                   Dataset obtained from creep tests of an epoxy based
+                        composite by using Dynamic
+Mechanical Thermal
+                        Analysis (DMTA).
+
+SBS                     Dataset obtained from creep tests of styrene-butadiene-styrene
+                        (SBS) composite by using
+Dynamic Mechanical Thermal
+                        Analysis (DMTA).
+
 PLOT.TTS                Time-Temperature Superposition (TTS) plot.
 
 TTS                     The Master Curve at a specific temperature is
                         estimated using Time-Temperature Superposition
                         (TTS) procedures.
+
+TTS_10                  This function provides an estimate of the Master
+                        Curve in a similar way to
+the TTS function.
